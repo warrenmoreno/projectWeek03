@@ -1,0 +1,15 @@
+body {
+	border-style: 10px groove rgb(122, 11, 46);
+	background: grey;
+	color: white;
+}
+
+h1 {
+	color: blue;
+	text-decoration: underline;
+}
+
+h2 {
+	color: green;
+	text-decoration: underline;
+}
